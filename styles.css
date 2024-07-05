@@ -1,0 +1,24 @@
+.highlight {
+  background-color: rgb(243, 226, 0);
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+p {
+  color: white;
+}
+
+body {
+  background-image: url(./Imgs/bouquet-8627534_1280.jpg);
+
+}
